@@ -3,3 +3,6 @@ install:
   - npm install
 test:
   - npm test
+notification:
+  slack:
+    secret_webhook: true
