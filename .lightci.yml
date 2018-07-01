@@ -5,4 +5,4 @@ test:
   - npm test
 notification:
   slack:
-    secret_webhook: true
+    webhook: secret
